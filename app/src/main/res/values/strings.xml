@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">trial1</string>
+    <string name="arrow_button_description">Navigate to MainActivity2</string>
+</resources>

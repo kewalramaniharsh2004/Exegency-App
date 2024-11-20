@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865037283727",
+    "project_id": "emer-e9905",
+    "storage_bucket": "emer-e9905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865037283727:android:cb42cf8f02eff790969bfa",
+        "android_client_info": {
+          "package_name": "com.example.trial1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu-0Z13sIQgQu4tpTyFbuKjr9sIr3efMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
